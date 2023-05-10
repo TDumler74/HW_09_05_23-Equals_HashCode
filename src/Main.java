@@ -7,6 +7,7 @@ public class Main {
 
   public static void main(String[] args) {
 
+
     Book karenina=new Book("L.Tolstoi","Anna Karenina");
     Book voinaImir=new Book("L.Tolstoi","Krieg und Frieden");
     Book skaski= new Book("H.C.Andersen", "Märchen");
